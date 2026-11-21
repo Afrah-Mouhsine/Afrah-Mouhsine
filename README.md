@@ -10,14 +10,14 @@ Full Stack & DevOps graduate (Licence Professionnelle, Faculté des Sciences Aï
 
 - 🌍 Languages: French (professional) · English (fluent, professional)
 - 🧠 Methodologies: Agile, Scrum, V-Model
-- 🌱 Learning: Angular, CI/CD, Odoo (ERP)
+- 🌱 Learning: Angular , Odoo (ERP)
 
 ### 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| **CoopManager** | Agricultural cooperative management: members, production, finances, analytics dashboard | TypeScript, Java / Spring Boot, PostgreSQL, Docker |
-| **Khadma Lik** | Recruitment platform connecting companies and candidates: authentication, job offers, dynamic search | PHP, MySQL, HTML5, CSS3, Bootstrap |
+| [**CoopManager**](https://github.com/Afrah-Mouhsine/CoopManager) | Agricultural cooperative management: members, production, finances, analytics dashboard | TypeScript, Java / Spring Boot, PostgreSQL, Docker |
+| [**Network-Audiovisual-Equipment-Management**](https://github.com/Afrah-Mouhsine/Network-Audiovisual-Equipment-Management) | Network and audiovisual equipment management: clients, equipment catalogue, stock, interventions, support requests | PHP / Laravel, MySQL, Bootstrap 5 |
 
 All my projects: [github.com/Afrah-Mouhsine?tab=repositories](https://github.com/Afrah-Mouhsine?tab=repositories)
 
